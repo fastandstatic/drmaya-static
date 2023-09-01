@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2023-08-31T21:16:59+00:00</lastmod>
+		<lastmod>2023-09-01T15:19:56+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/08/Grupo-6855.png</image:loc>
 		</image:image>
@@ -13,13 +13,13 @@
 			<image:loc>/wp-content/uploads/2023/08/Enmascarar-grupo-230.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/08/Enmascarar-grupo-230.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/09/Grupo-6863.png</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/08/Enmascarar-grupo-231.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/08/Enmascarar-grupo-231.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/09/Grupo-686454.png</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/08/Enmascarar-grupo-241.png</image:loc>
@@ -50,31 +50,18 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/contacto/</loc>
-		<lastmod>2023-08-30T15:09:18+00:00</lastmod>
+		<loc>/servicios-implantes-dentales/</loc>
+		<lastmod>2023-08-30T22:04:32+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/08/Grupo-6896-1.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/dr-maya/</loc>
-		<lastmod>2023-08-30T19:28:50+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/08/Enmascarar-grupo-249.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/08/Enmascarar-grupo-247.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/08/Grupo-6897.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/08/Grupo-6898.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/08/Grupo-6899.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/08/Enmascarar-grupo-258312323.png</image:loc>
 		</image:image>
 	</url>
 	<url>
 		<loc>/servicios-ortodoncia-cco-system/</loc>
-		<lastmod>2023-08-30T21:17:43+00:00</lastmod>
+		<lastmod>2023-09-01T14:03:30+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/08/Enmascarar-grupo-244.png</image:loc>
 		</image:image>
@@ -92,8 +79,65 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>/servicios-ortodoncia-general/</loc>
+		<lastmod>2023-09-01T14:08:52+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/08/Enmascarar-grupo-259hyh.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/08/Enmascarar-grupo-260.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/contacto/</loc>
+		<lastmod>2023-09-01T14:51:36+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/08/Enmascarar-grupo-250.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/08/Enmascarar-grupo-251.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/08/Grupo-6896-1.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/dr-maya/</loc>
+		<lastmod>2023-09-01T15:05:51+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/08/Enmascarar-grupo-249.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/08/Grupo-6897.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/08/Grupo-6898.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/08/Grupo-6899.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/08/Grupo-6897.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/08/Grupo-6898.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/08/Grupo-6899.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/08/Grupo-6897.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/08/Grupo-6898.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/08/Grupo-6899.png</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>/servicios-ortodoncia-invisalign/</loc>
-		<lastmod>2023-08-30T21:55:38+00:00</lastmod>
+		<lastmod>2023-09-01T15:26:41+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/08/Enmascarar-grupo-261.png</image:loc>
 		</image:image>
@@ -111,47 +155,8 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/servicios-implantes-dentales/</loc>
-		<lastmod>2023-08-30T22:04:32+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/08/Enmascarar-grupo-247.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/08/Enmascarar-grupo-258312323.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/servicios-ortodoncia-general/</loc>
-		<lastmod>2023-08-30T22:06:36+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/08/Enmascarar-grupo-259hyh.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/08/Enmascarar-grupo-260.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/servicios-diseno-de-sonrisa/</loc>
-		<lastmod>2023-08-31T21:14:42+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/08/Enmascarar-grupo-250.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/08/Enmascarar-grupo-251.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/08/Enmascarar-grupo-250.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/08/Enmascarar-grupo-251.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/08/Enmascarar-grupo-252.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/servicios-premium/</loc>
-		<lastmod>2023-08-31T21:18:48+00:00</lastmod>
+		<lastmod>2023-09-01T15:28:58+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/08/Enmascarar-grupo-257.png</image:loc>
 		</image:image>
@@ -168,19 +173,38 @@
 			<image:loc>/wp-content/uploads/2023/08/Enmascarar-grupo-230.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/08/Enmascarar-grupo-230.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/09/Grupo-6863.png</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/08/Enmascarar-grupo-231.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/08/Enmascarar-grupo-231.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/09/Grupo-686454.png</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/08/Enmascarar-grupo-241.png</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/08/Enmascarar-grupo-241.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/servicios-diseno-de-sonrisa/</loc>
+		<lastmod>2023-09-01T15:43:56+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/08/Enmascarar-grupo-250.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/08/Enmascarar-grupo-251.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/08/Enmascarar-grupo-250.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/08/Enmascarar-grupo-251.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/08/Enmascarar-grupo-252.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
