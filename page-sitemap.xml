@@ -102,40 +102,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/dr-maya/</loc>
-		<lastmod>2023-09-01T15:05:51+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/08/Enmascarar-grupo-249.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/08/Grupo-6897.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/08/Grupo-6898.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/08/Grupo-6899.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/08/Grupo-6897.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/08/Grupo-6898.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/08/Grupo-6899.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/08/Grupo-6897.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/08/Grupo-6898.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/08/Grupo-6899.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/servicios-ortodoncia-invisalign/</loc>
 		<lastmod>2023-09-01T15:26:41+00:00</lastmod>
 		<image:image>
@@ -205,6 +171,31 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/08/Enmascarar-grupo-252.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/dr-maya/</loc>
+		<lastmod>2023-09-01T16:13:39+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/08/Enmascarar-grupo-249.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/08/Grupo-6897.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/08/Grupo-6898.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/08/Grupo-6899.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/08/Grupo-6897.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/08/Grupo-6898.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/08/Grupo-6899.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
