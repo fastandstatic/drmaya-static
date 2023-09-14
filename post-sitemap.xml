@@ -2,34 +2,27 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/blog/</loc>
-		<lastmod>2023-09-01T13:58:53+00:00</lastmod>
+		<lastmod>2023-09-14T14:38:38+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/saludablemente-perfecta/</loc>
-		<lastmod>2023-08-23T16:51:54+00:00</lastmod>
+		<loc>/por-que-elegir-un-ortodoncista-especializado-claves-para-un-tratamiento-exitoso-2/</loc>
+		<lastmod>2023-09-14T14:35:58+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/08/Enmascarar-grupo-26409009.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/08/Enmascarar-grupo-230.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/la-importancia-de-la-ortodoncia-especializada-beneficios-mas-alla-de-la-sonrisa/</loc>
-		<lastmod>2023-09-01T13:57:59+00:00</lastmod>
+		<loc>/la-odontologia-estetica-transformando-sonrisas-y-vidas/</loc>
+		<lastmod>2023-09-14T14:37:30+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/08/Enmascarar-grupo-31.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/08/Enmascarar-grupo-231.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/ortodoncia-estetica-la-opcion-discreta-para-lograr-una-sonrisa-perfecta/</loc>
-		<lastmod>2023-09-01T13:58:41+00:00</lastmod>
+		<loc>/diseno-de-sonrisa-la-transformacion-que-cambia-vidas/</loc>
+		<lastmod>2023-09-14T14:38:38+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/08/Enmascarar-grupo-30.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/por-que-elegir-un-ortodoncista-especializado-claves-para-un-tratamiento-exitoso/</loc>
-		<lastmod>2023-09-01T13:58:53+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/08/Enmascarar-grupo-29.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/08/Enmascarar-grupo-248.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
