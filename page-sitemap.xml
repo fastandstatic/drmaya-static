@@ -121,40 +121,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/servicios-premium/</loc>
-		<lastmod>2023-09-01T15:28:58+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/08/Enmascarar-grupo-257.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/08/Enmascarar-grupo-257.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/08/Grupo-6855.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/08/Enmascarar-grupo-232-1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/08/Enmascarar-grupo-230.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/09/Grupo-6863.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/08/Enmascarar-grupo-231.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/09/Grupo-686454.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/08/Enmascarar-grupo-241.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/08/Enmascarar-grupo-241.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/servicios-diseno-de-sonrisa/</loc>
 		<lastmod>2023-09-01T15:43:56+00:00</lastmod>
 		<image:image>
@@ -196,6 +162,40 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/08/Grupo-6899.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/servicios-premium/</loc>
+		<lastmod>2023-09-15T19:17:38+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/08/Enmascarar-grupo-257.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/08/Enmascarar-grupo-257.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/08/Grupo-6855.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/08/Enmascarar-grupo-232-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/08/Enmascarar-grupo-230.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/09/Grupo-6863.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/08/Enmascarar-grupo-231.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/09/Grupo-686454.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/08/Enmascarar-grupo-241.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/08/Enmascarar-grupo-241.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
