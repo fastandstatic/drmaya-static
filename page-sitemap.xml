@@ -56,19 +56,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/contacto/</loc>
-		<lastmod>2023-09-01T14:51:36+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/08/Enmascarar-grupo-250.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/08/Enmascarar-grupo-251.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/08/Grupo-6896-1.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/servicios-ortodoncia-invisalign/</loc>
 		<lastmod>2023-09-01T15:26:41+00:00</lastmod>
 		<image:image>
@@ -151,6 +138,19 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/09/DC716585-96CE-43AE-AE13-DA610718A7C4.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/contacto/</loc>
+		<lastmod>2023-09-22T22:12:04+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/08/Enmascarar-grupo-250.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/08/Enmascarar-grupo-251.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/08/Grupo-6896-1.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
